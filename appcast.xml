@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Papercut</title>
+    <item>
+      <title>Papercut 0.4.0</title>
+      <pubDate>Sat, 26 Sep 2026 21:35:58 +0200</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Updates itself from now on: Papercut checks once a day, or right away with Papercut → Check for Updates…</p><p>Screen sharing in the call, recorded locally and placed in the combined file.</p><p>Listeners, the assistant (OpenRouter too), and Export text on the Processing page.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.4.0/Papercut-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="90Ay4Pb7fC5eeZKdlwd9T6eJwhWHVvWkJHIt/lQs6Z2j6zd7HrhUawiRppzmiiclhCzHLlsxC2sknr4LMqVGDg==" length="20222497"/>
+    </item>
   </channel>
 </rss>
