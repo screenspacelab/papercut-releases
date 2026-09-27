@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.5.0</title>
+      <pubDate>Sun, 27 Sep 2026 14:26:21 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Recordings go straight between the Macs during the call, replacing the shared folder. Everyone in the room needs this version.</p><p>Listeners are recorded by sound (their microphone, never their camera) and combined with the hosts.</p><p>Everyone has a three-letter ID and a full name: pick yours in Settings → You.</p><p>A Tasks page (⌘4) shows what runs in the background; quitting waits for what would be lost.</p><p>Editing: paste the lines a language model kept into the Edit box, and Make Edit… cuts them into a video. The player shows the time of day.</p><p>The call keeps itself alive, and the Audio section sets input and output with their volumes.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.5.0/Papercut-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="4I7zchzgevsVJrZo1Cv+U82sL7mTEFDiRLY/ipZaqObvkZVqHWV0VBX2Qo5fx64tWyGpxE0G6PhDAoksp8cxCA==" length="20772922"/>
+    </item>
+    <item>
       <title>Papercut 0.4.0</title>
       <pubDate>Sat, 26 Sep 2026 21:35:58 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
