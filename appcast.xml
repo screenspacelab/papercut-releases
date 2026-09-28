@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.6.0</title>
+      <pubDate>Mon, 28 Sep 2026 17:25:58 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>&lt;p&gt;Editing: a shared screen shows with the hosts stacked beside it, and on the timeline, in the transcript and in the list. Click the picture to play or pause; jumps and scrubbing are instant and clean.&lt;/p&gt;&lt;p&gt;In the call, pick which display to share, and see your own shared screen in a tile. Screen recordings keep their true colors.&lt;/p&gt;&lt;p&gt;Transcripts start a new line after a pause over 2 seconds, and a made-up “TV Gelderland” line is left out. Transcribe Again… on the Processing page brings older recordings up to date.&lt;/p&gt;&lt;p&gt;Jargon, the words WhisperX should spell your way, is one list for every Mac: Settings → Transcription → Jargon.&lt;/p&gt;</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.6.0/Papercut-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="8V4KI3KVp/lfbySQ9KJHdKxBL33FRiZf7LWNAgPZnZvpEzcrn9LUUyjMWdBNechSCkLtWLpRieKox27AfqMbDQ==" length="21067581"/>
+    </item>
+    <item>
       <title>Papercut 0.5.0</title>
       <pubDate>Sun, 27 Sep 2026 14:26:21 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
