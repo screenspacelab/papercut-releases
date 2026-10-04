@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.8.0</title>
+      <pubDate>Sun, 04 Oct 2026 22:29:49 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Audio only from a browser: someone without a Mac takes part from a web page (Chrome, Edge, or Safari on an iPad), recorded and sent to the hosts like a Mac, and transcribed on each Mac by itself.</p><p>Mute silences your call for real; the others see you muted and no level from you. Nobody sees a level before they join, or before they joined themselves.</p><p>Clearer name tags: a red microphone when muted, no name chips over the picture. Session says plainly who is muted or hasn&#x27;t joined.</p><p>While sharing, the floating call can be closed (✕) and taken out again, starts in the same corner as on the stage, and can&#x27;t get too small.</p><p>Chat: web addresses are links, with the pointing hand.</p><p>The same person in two places: the newest takes over, unless the other is recording.</p><p>Upload speed limit: Adaptive by default, or 2 to 50 Mbit/s.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.8.0/Papercut-0.8.0.dmg" type="application/octet-stream" sparkle:edSignature="WjFRIABw1sst6mqgu0VMh7E9RTq3GVOAHOW/i/Se60BbxjEmrnw1UfIfXP2h1ZIlriQ0zyadu8Mg95Qd7x4LBw==" length="21598640"/>
+    </item>
+    <item>
       <title>Papercut 0.7.0</title>
       <pubDate>Sun, 04 Oct 2026 03:45:59 +0200</pubDate>
       <sparkle:version>12</sparkle:version>
