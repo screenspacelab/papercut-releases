@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.7.0</title>
+      <pubDate>Sun, 04 Oct 2026 03:45:59 +0200</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Join and Leave: the call no longer starts by itself. Check yourself in your own picture, then press Join (⌘J). Leave takes you out; during a recording it asks first and stops only your recording. Files keep moving either way.</p><p>Chat with the room, saved with the recording.</p><p>Screen sharing: sharp and whole, shown in its own shape, large for everyone. While you show another app, the call floats over it, never shared nor recorded. Recorded only during a recording, and listed on the Processing page.</p><p>A calmer level meter that tells you whether you&#x27;re too quiet, good or too loud. Grey while you&#x27;re muted.</p><p>Transfers take turns, show each file&#x27;s speed, can be cancelled, and the Tasks page shows the totals. The Mac stays awake while files move.</p><p>A long microphone gap no longer crashes the app, and transcripts are finished after a crash. Problems nothing can fix can be acknowledged.</p><p>Windows come back where you left them. &quot;Listener&quot; is now &quot;audio only&quot;.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.7.0/Papercut-0.7.0.dmg" type="application/octet-stream" sparkle:edSignature="BGD//L2esH4rcmUg0+rfE6OwViHJv26/trPXsWex5nB48u6FRi51nOHYk4wZ+BbkI10LSoqw565DGbL7yTd7CQ==" length="21508083"/>
+    </item>
+    <item>
       <title>Papercut 0.6.0</title>
       <pubDate>Mon, 28 Sep 2026 17:25:58 +0200</pubDate>
       <sparkle:version>11</sparkle:version>
