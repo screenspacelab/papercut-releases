@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.9.2</title>
+      <pubDate>Sun, 25 Oct 2026 01:37:47 +0200</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Guests in a browser can share their screen, a window or a tab with the call.</p><p>Editing: jumping around and dragging on the timeline is fast again in recordings with a shared screen.</p><p>Processing and Editing say they&#x27;re looking for recordings while the app starts, instead of saying there are none.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.9.2/Papercut-0.9.2.dmg" type="application/octet-stream" sparkle:edSignature="cZ5XTjhnxxNc463lRrCGLwnA5zTkh1bTNUKJr2OvdsH4T0ui4Z7tfw8oeygBBzv6B6nnEv/Wf+IrtbT70NMgDw==" length="21948671"/>
+    </item>
+    <item>
       <title>Papercut 0.9.1</title>
       <pubDate>Sat, 24 Oct 2026 15:08:36 +0200</pubDate>
       <sparkle:version>16</sparkle:version>
