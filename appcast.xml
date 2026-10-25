@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.9.3</title>
+      <pubDate>Sun, 25 Oct 2026 20:23:40 +0100</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The call&#x27;s buttons are in a bar of their own above the picture, as in Google Meet: microphone, camera, share and leave in the middle, the layouts and the chat on the right, and whether you&#x27;re recording on the left. The same in the browser.</p><p>The window has no title bar any more: the pages go up to the top. Settings is the gear beside Session.</p><p>Markers and the 1-4 segment keys are gone.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.9.3/Papercut-0.9.3.dmg" type="application/octet-stream" sparkle:edSignature="kgcdyw1NbqgE6+PfXbgO1DlURG373018gUDV13Kw1p9kA0jqwpXlPc5pDrgCvL0gf/MuebZRc0FUpacTObdNCA==" length="21890631"/>
+    </item>
+    <item>
       <title>Papercut 0.9.2</title>
       <pubDate>Sun, 25 Oct 2026 01:37:47 +0200</pubDate>
       <sparkle:version>17</sparkle:version>
