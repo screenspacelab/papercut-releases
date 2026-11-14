@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.9.4</title>
+      <pubDate>Sat, 14 Nov 2026 10:55:18 +0100</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Back to the version of 10 October: 0.8.0, with each speaker&#x27;s volume, gate and colour on the Editing page.</p><p>The changes of 0.9.0 to 0.9.3 are taken out for now.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.9.4/Papercut-0.9.4.dmg" type="application/octet-stream" sparkle:edSignature="zghzSYT5IAc8YB6uNp0nEgsLi1VBcmUBGkacQouOfylSvNr5Zxykhzrf5Q7qDY2AVpOK03ZlXVeJzIwvnqLnCQ==" length="21712760"/>
+    </item>
+    <item>
       <title>Papercut 0.9.3</title>
       <pubDate>Sun, 25 Oct 2026 20:23:40 +0100</pubDate>
       <sparkle:version>18</sparkle:version>
