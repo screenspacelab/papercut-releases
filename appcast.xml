@@ -3,6 +3,15 @@
   <channel>
     <title>Papercut</title>
     <item>
+      <title>Papercut 0.9.5</title>
+      <pubDate>Sat, 14 Nov 2026 18:56:18 +0100</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The calls of 14 November went wrong because 0.9.3 kept the app too busy to answer the server, which then dropped people from the room: some saw or heard someone the others didn&#x27;t. That is put right, and the app now does far less work during a call than any version before.</p><p>Everything of 0.9.0 to 0.9.3 is back: the join screen, the call bar, the chat&#x27;s history and pictures, switching the camera off.</p><p>The level meters move 10 times a second.</p>]]></description>
+      <enclosure url="https://github.com/screenspacelab/papercut-releases/releases/download/v0.9.5/Papercut-0.9.5.dmg" type="application/octet-stream" sparkle:edSignature="yqlXsyHdmYQGDCozOcTaasBCSP9Wc3/zWEX62apaPdcc0fFyM8Qp6ET/wwfMMKgUJT6ICzv+yx+LSeemlfhsCw==" length="21914847"/>
+    </item>
+    <item>
       <title>Papercut 0.9.4</title>
       <pubDate>Sat, 14 Nov 2026 10:55:18 +0100</pubDate>
       <sparkle:version>19</sparkle:version>
